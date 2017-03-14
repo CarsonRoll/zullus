@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HTML AngularJS Template
 =======================
 
@@ -18,3 +19,7 @@ Current extras:
 * Jade
 * Sass
 * Stylus
+=======
+# zullus
+Company Site
+>>>>>>> 1f8cfa7947e69ed52f99968c3d65bfcd4076d5da
